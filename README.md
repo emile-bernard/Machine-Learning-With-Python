@@ -26,7 +26,10 @@ conda install nltk spacy
 
 ## Run
 
-Run each .ipynb Jupyter notebooks.
+Run the Jupyter Notebook notebook:
+```
+jupyter notebook
+```
 
 ## Technology Used
 
