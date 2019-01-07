@@ -17,6 +17,7 @@ conda install jupyter notebook
 3. Install required packages:
 ```
 conda install numpy scipy scikit-learn matplotlib pandas pillow graphviz python-graphviz
+pip install mglearn
 ```
 
 4. Install optional packages:
